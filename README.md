@@ -7,4 +7,4 @@ A new Flutter project.
 # MI 2C
 
 # Hasil Output Hello World
-![Screenshot Dashboard Oracle](assets/images/tugas.png)
+![Screenshot Dashboard Oracle](images/tugas.jpeg)
